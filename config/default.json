@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://codewonders:codewonders@devconnector-xu64y.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "codewonders",
+  "githubClientId":"22e95e9d128e18c3eb5b",
+  "githubSecret": "81be57791af71b9486fffde7c40116f5cc3ab011"
+}
